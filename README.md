@@ -1,5 +1,6 @@
 # spamsmspizzahut
-Unlimited, tapi jangan barbar
+Unlimited, tapi jangan barbar\
+Boleh recode tapi kasih credit\
 
 CARA PENGGUNAAN:\
 $ pkg update\
